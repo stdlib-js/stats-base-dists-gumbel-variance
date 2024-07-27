@@ -67,7 +67,7 @@ The [variance][variance] for a [Gumbel][gumbel-distribution] random variable wit
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-variance@v0.2.2-deno/mod.js';
 ```
 
 #### variance( mu, beta )
@@ -127,7 +127,7 @@ y = variance( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-variance@v0.2.2-deno/mod.js';
 
 var beta;
 var mu;
