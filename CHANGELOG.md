@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-17)
+## Unreleased (2024-12-24)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`bb39734`](https://github.com/stdlib-js/stdlib/commit/bb39734352cdccbee4633abe450e1b2f1cda75ee) - **feat:** add C implementation for `stats/base/dists/gumbel/variance` [(#3967)](https://github.com/stdlib-js/stdlib/pull/3967) _(by Aayush Khanna, Philipp Burckhardt)_
 
 </details>
