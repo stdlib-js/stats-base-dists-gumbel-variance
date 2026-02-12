@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-12)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`1d869c7`](https://github.com/stdlib-js/stdlib/commit/1d869c731b86a36a2463698a060cdfb6d2b401f2) - **bench:** update random value generation for stats/base/dists/gumbel/variance [(#10242)](https://github.com/stdlib-js/stdlib/pull/10242) _(by Bhargav Dabhade, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Bhargav Dabhade
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-05)
